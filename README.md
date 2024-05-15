@@ -1,0 +1,1 @@
+# resizing_component_with_crud_operation
